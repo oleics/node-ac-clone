@@ -1,0 +1,11 @@
+{
+  "name": "ac-clone",
+  "description": "Create clones with dereferenced values, guaranteed.",
+  "version": "1.0.0",
+  "author": "Oliver Leics <oliver.leics@gmail.com>",
+  "license": "MIT",
+  "repository": "oleics/node-ac-clone",
+  "dependencies": {
+    "ac-safe-json-stringify": "^1.0.0"
+  }
+}
